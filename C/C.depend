@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1723831362 source:d:\c programs\c\hello world.c
+	<stdio.h>
+
+1723831623 source:d:\c programs\c\array print.c
+	<stdio.h>
+
